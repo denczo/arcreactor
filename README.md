@@ -4,6 +4,8 @@
 
 This is the code for the animation of a 3D printed Arc Reactor. 
 
+<img src="http://denicz.info/wp-content/uploads/2020/12/reactor_startup.gif" width="200" height="200" />
+
 ### Components:
 - NeoPixel Jewel - 7 x 5050 RGB-LED
 - Arduino Nano
